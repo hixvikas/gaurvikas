@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Git & GitHub, JavaScript, React.js, Node.js, and Python**
 
-- 📫 How to reach me **sharmavikas12909@gmail.com**
+- 📫 How to reach me **hixvikas@gmail.com**
 
 - ⚡ Fun fact **I enjoy solving complex backend problems and turning ideas into real-world applications**
 
