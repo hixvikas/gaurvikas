@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vikas Sharma 👋</h1>
+<h1 align="center">Hi there, I'm Vikas Sharma </h1>
 <h3 align="center">PHP & Laravel Developer | Building secure, full-stack web applications</h3>
 
 <p align="center">
@@ -27,12 +27,12 @@
 
 ### 🚀 About Me
 
-- 🔧 PHP & Laravel Developer with **1+ year of experience** building secure, full-stack web apps using **Laravel, MySQL, RESTful APIs, and JavaScript**
-- 🏗️ Skilled in architecting **multi-role systems**, integrating third-party APIs (**Stripe, Typesense**), and writing clean, maintainable code following **MVC & OOP** principles
-- 🐛 Strong debugger with a track record of independently shipping **production-ready features**
-- 🌱 Currently learning **React.js, Node.js, and Python**
-- 📍 Based in SardarShahar, Rajasthan, India
-- 📫 Reach me at **hixvikas@gmail.com**
+-  PHP & Laravel Developer with **1+ year of experience** building secure, full-stack web apps using **Laravel, MySQL, RESTful APIs, and JavaScript**
+-  Skilled in architecting **multi-role systems**, integrating third-party APIs (**Stripe, Typesense**), and writing clean, maintainable code following **MVC & OOP** principles
+-  Strong debugger with a track record of independently shipping **production-ready features**
+-  Currently learning **React.js, Node.js, and Python**
+-  Based in Sardarshahr, Rajasthan, India
+-  Reach me at **hixvikas@gmail.com**
 
 ---
 
@@ -52,7 +52,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 </p>
