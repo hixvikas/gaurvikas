@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vikas Sharma </h1>
+<h1 align="center">Hi there, I'm Vikas</h1>
 <h3 align="center">PHP & Laravel Developer | Building secure, full-stack web applications</h3>
 
 <p align="center">
